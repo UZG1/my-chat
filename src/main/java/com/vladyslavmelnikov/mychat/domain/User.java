@@ -14,5 +14,5 @@ public class User {
         LOGOUT
     }
 
-    LoginStatus loginStatus = LoginStatus.LOGOUT;
+    LoginStatus loginStatus = LoginStatus.LOGIN;
 }

@@ -24,7 +24,6 @@ public class MessageController {
         else {
             return null;
         }
-
     }
 
     @MessageMapping("/login")
